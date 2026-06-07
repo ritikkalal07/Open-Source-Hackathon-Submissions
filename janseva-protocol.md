@@ -2,35 +2,35 @@
 
 ## Participant Details
 
-**Full Name:**  
+**Full Name: Ritik Devilal Kalal**  
 <!-- Write your full name -->
 
-**GitHub Username:**  
+**GitHub Username: ritikkalal07**  
 <!-- Write your GitHub username -->
 
-**Team Name:**  
+**Team Name: LazyCoder**  
 <!-- Write your team name -->
 
-**College/University:**  
+**College/University: LJ University**  
 <!-- Write your college/university name -->
 
 ---
 
 ## Project Details
 
-**Project Title:**  
+**Project Title: Janseva Protocol**  
 <!-- Write your project/idea title -->
 
-**Project Description:**  
+**Project Description: Decentralized AI-powered civic welfare protocol**  
 <!-- Explain what your project does, what problem it solves, and why it matters -->
 
-**Tech Stack Used:**  
+**Tech Stack Used: React, TypeScript, Vite, Tailwind CSS, TanStack Router / React-Start, Supabase (Postgres), Vercel, Node.js (npm), Radix UI, Recharts, @ai-sdk (AI gateway), React Query, ESLint, Prettier**  
 <!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
 
-**GitHub Repository Link:**  
+**GitHub Repository Link: https://github.com/ritikkalal07/janseva-protocol**  
 <!-- Add your public project repository link -->
 
-**Live Demo Link:**  
+**Live Demo Link: https://janseva-protocol.vercel.app/**  
 <!-- Add deployed link if available -->
 
 **Presentation / Demo Video Link:**  
